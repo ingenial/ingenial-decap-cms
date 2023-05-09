@@ -1,19 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Connecting Businesses with the Web Development Talent They Need
 image: /img/home-jumbotron.jpg
-heading: Desarrolladores de alto nivel para tus proyectos de desarrollo
-subheading: Support sustainable farming while enjoying a cup
+heading: Our Talent
+subheading: With high-quality standards
 mainpitch:
-  title: Por qué somos Ingenial?
-  description: Somos un equipo interdiciplinar que se ha forjado a lo largo de los
-    años para ofrecer las mejores herramientas tecnológicas, una solución
-    adecuada a las necesidades de su empresa. Nosotros analizamos cada proyecto
-    de una manera diferente, realizando un diagnóstico y ejecución a la medida.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Why Ingenial Teams?
+  description: At Ingenial, we specialize in connecting businesses with highly
+    skilled and experienced web developers. Our team of experts masters a wide
+    range of technologies, including React.js, Angular, Node.js, and Python,
+    allowing us to provide the right talent for every project.
+description: Each member of Ingenial Teams brings a unique set of skills and
+  knowledge, enabling us to cover a wide range of projects and challenges. Our
+  developers are problem-solvers, ready to tackle and overcome any challenge
+  that arises.
 intro:
   blurbs:
     - image: /img/coffee.png
