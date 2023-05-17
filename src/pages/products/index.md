@@ -1,43 +1,40 @@
 ---
-templateKey: 'product-page'
+heading: Explore Our Innovative Web Services
 path: /products
-title: Our Coffee
+templateKey: product-page
+title: Our Services
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: "At Ingenial Teams, we offer a wide range of web development
+  services to help businesses grow and thrive in the digital age. We take pride
+  in delivering custom solutions that cater to the unique needs and goals of
+  each client. Here's an overview of the services we offer:"
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Mobile Apps Development: 
+
+        Mobile services are increasingly important for companies because it allows them the opportunity to interact with customers or users directly from their cell phone, at any time, anywhere.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        Progressive Web Development: 
+
+        Static and only informative web pages are unattractive business tools, because they are so simple and generate so little value to the user. With the new web development trends, these problems have been solved and turned into an opportunity to capture a different market niche.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Programmatic Software Testing:
+
+        Even though most experts miss some manual errors; programmatic testing will reduce greatly the errors caused by human mistakes. This tool allows you to test the software that is going to be delivered to the client in several ways.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: >-
+        Usability Testing Lab for UI/UX:
+
+        Modern interface design seeks to generate more engagement and conversion. To optimize the performance of a solution it is necessary to think and invest in usability, this is a plus for all users and will improve the conversion rate of its technological solutions.
+    - image: /img/apple-touch-icon.png
+      text: >-
+        Third-Party Integrations and Automizations:
+
+        Modern companies use data-driven strategies to amplify their messages and reduce the cost and work of their campaigns, which is why it is vital to integrate their eCommerce, sales tools, and marketing altogether and start leading the game.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -45,12 +42,10 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Benefits of Ingenial Teams
+  description: When hiring through Ingenial, you will benefit from our efficient
+    communication, timely delivery, and high-quality work. We offer a flexible
+    cost structure that adapts to the needs and budget of your project.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -61,21 +56,30 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+  - author: Edwin Torres – CEO SwipeStar
+    quote: “Launch your project with Ingenial is to start with the right foot. The
+      team gave more than I expected by hiring them to design and develop my
+      business idea. They are a proactive and resourceful team, they helped me
+      with expertise and professionalism by making my mobile application better
+      than I imagined.“
+  - author: John Nogrady – CTO Fantag
+    quote: “They perfectly understood our needs and knew how to make real the ideal
+      solution. Initially, the project was something simple and only some
+      front-end adjustments were required but thanks to the professionalism of
+      Sebastián and his team it has been possible to create a stable
+      relationship that has benefited us both mutually“
+  - quote: “The product exceeded our expectations and generated true value for us.
+      We contracted mobile development services and obtained the right solution
+      for our company. These guys guided us in the right direction and now we
+      have more peace of mind with our constant growth and scaling. Excellent
+      support“
+    author: Rubén Navarro – CEO Deliarepas
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  description: We make it easy to make great coffee a part of your life. Choose
+    one of our monthly subscription plans to receive great coffee at your
+    doorstep each month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -83,19 +87,19 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      price: "50"
+    - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??'
+      price: ??
 ---
