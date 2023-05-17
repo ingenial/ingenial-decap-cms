@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Connecting Businesses with the Web Development Talent They Need
+title: "Web Talent: Your Business Advantage"
 image: /img/home-jumbotron.jpg
 heading: Our Talent
 subheading: With high-quality standards
@@ -18,31 +18,33 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        The first step is always understanding your needs. We start with an
+        initial consultation where we discuss your project, requirements, goals,
+        and timeline. This helps us better understand what you're looking for
+        and allows us to match you with the most suitable developer from our
+        team.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: Based on your project needs and our understanding from the initial
+        consultation, we connect you with the developer or team that best fits
+        your project. Our matching process ensures that the developers’ skill
+        set aligns with your project requirements.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: Once the matching is complete, we have a kickoff meeting to start the
+        project. This meeting will include your team and the assigned
+        developer(s) to discuss the project in detail, set expectations, and
+        establish lines of communication. We believe in transparency and open
+        lines of communication, so we provide regular updates throughout the
+        project to keep you informed of progress.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Our developers work diligently on your project, adhering to the best
+        coding practices and meeting the agreed-upon deadlines. We value the
+        quality of our work and ensure that we deliver a product that meets or
+        exceeds your expectations.
+    - text: Even after the project is completed, we remain available for any necessary
+        support. Whether it's minor tweaks, bug fixes, or new feature additions,
+        we're here to ensure the continued success of your project.
+      image: /img/identidad.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
