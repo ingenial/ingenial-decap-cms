@@ -16,7 +16,7 @@ description: Each member of Ingenial Teams brings a unique set of skills and
   that arises.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/step1_diagnostic.png
       text: >
         The first step is always understanding your needs. We start with an
         initial consultation where we discuss your project, requirements, goals,
