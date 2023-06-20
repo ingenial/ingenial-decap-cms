@@ -23,7 +23,7 @@ intro:
         and timeline. This helps us better understand what you're looking for
         and allows us to match you with the most suitable developer from our
         team.
-    - image: /img/step-2.png
+    - image: /img/step-02.png
       text: Based on your project needs and our understanding from the initial
         consultation, we connect you with the developer or team that best fits
         your project. Our matching process ensures that the developers’ skill
