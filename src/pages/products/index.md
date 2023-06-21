@@ -10,27 +10,27 @@ description: "At Ingenial Teams, we offer a wide range of web development
   each client. Here's an overview of the services we offer:"
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/app.svg
       text: >
         Mobile Apps Development: 
 
         Mobile services are increasingly important for companies because it allows them the opportunity to interact with customers or users directly from their cell phone, at any time, anywhere.
-    - image: /img/coffee-gear.png
+    - image: /img/web.svg
       text: >-
         Progressive Web Development: 
 
         Static and only informative web pages are unattractive business tools, because they are so simple and generate so little value to the user. With the new web development trends, these problems have been solved and turned into an opportunity to capture a different market niche.
-    - image: /img/tutorials.png
+    - image: /img/programmatic.svg
       text: >
         Programmatic Software Testing:
 
         Even though most experts miss some manual errors; programmatic testing will reduce greatly the errors caused by human mistakes. This tool allows you to test the software that is going to be delivered to the client in several ways.
-    - image: /img/meeting-space.png
+    - image: /img/ux-testing.svg
       text: >-
         Usability Testing Lab for UI/UX:
 
         Modern interface design seeks to generate more engagement and conversion. To optimize the performance of a solution it is necessary to think and invest in usability, this is a plus for all users and will improve the conversion rate of its technological solutions.
-    - image: /img/apple-touch-icon.png
+    - image: /img/automated-marketing.svg
       text: >-
         Third-Party Integrations and Automizations:
 
