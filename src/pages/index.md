@@ -16,26 +16,26 @@ description: Each member of Ingenial Teams brings a unique set of skills and
   that arises.
 intro:
   blurbs:
-    - image: /img/step1_diagnostic.png
+    - image: /img/step_1.png
       text: >
         The first step is always understanding your needs. We start with an
         initial consultation where we discuss your project, requirements, goals,
         and timeline. This helps us better understand what you're looking for
         and allows us to match you with the most suitable developer from our
         team.
-    - image: /img/step-02.png
+    - image: /img/step_2.png
       text: Based on your project needs and our understanding from the initial
         consultation, we connect you with the developer or team that best fits
         your project. Our matching process ensures that the developers’ skill
         set aligns with your project requirements.
-    - image: /img/step2_design.png
+    - image: /img/step_3.png
       text: Once the matching is complete, we have a kickoff meeting to start the
         project. This meeting will include your team and the assigned
         developer(s) to discuss the project in detail, set expectations, and
         establish lines of communication. We believe in transparency and open
         lines of communication, so we provide regular updates throughout the
         project to keep you informed of progress.
-    - image: /img/step3_buiding.png
+    - image: /img/step_4.png
       text: >
         Our developers work diligently on your project, adhering to the best
         coding practices and meeting the agreed-upon deadlines. We value the
@@ -44,7 +44,7 @@ intro:
     - text: Even after the project is completed, we remain available for any necessary
         support. Whether it's minor tweaks, bug fixes, or new feature additions,
         we're here to ensure the continued success of your project.
-      image: /img/step4_followup.png
+      image: /img/step_5.png
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
