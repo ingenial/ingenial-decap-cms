@@ -3,7 +3,7 @@ heading: Explore Our Innovative Web Services
 path: /products
 templateKey: product-page
 title: Our Services
-image: /img/jumbotron.jpg
+image: /img/head.png
 description: "At Ingenial Teams, we offer a wide range of web development
   services to help businesses grow and thrive in the digital age. We take pride
   in delivering custom solutions that cater to the unique needs and goals of
