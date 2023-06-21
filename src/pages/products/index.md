@@ -10,7 +10,7 @@ description: "At Ingenial Teams, we offer a wide range of web development
   each client. Here's an overview of the services we offer:"
 intro:
   blurbs:
-    - image: /img/app.svg
+    - image: /img/app.png
       text: >
         Mobile Apps Development: 
 
