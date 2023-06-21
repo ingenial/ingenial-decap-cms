@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: "Web Talent: Your Business Advantage"
-image: /img/fondo-title.jpg
+image: /img/head.png
 heading: Our Talent
 subheading: With high-quality standards
 mainpitch:
